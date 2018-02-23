@@ -1,0 +1,12 @@
+#Tables
+--from_mongodb_users umg-dev.swift_alerts.from_mongodb_users
+--artist_track_images umg-dev.swift_alerts.artist_track_images
+--playlist_geography umg-dev.swift_alerts.playlist_geography
+--playlist_track_action umg-dev.swift_alerts.playlist_track_action //output table
+--product umg-swift.metadata.product
+--playlist_track_history umg-partner.spotify.playlist_track_history
+--playlist_history umg-partner.spotify.playlist_history
+--streams umg-partner.spotify.streams
+#Path output:
+--mail_alerts_output umg-dev/swift_alerts/
+#2017-11-15/mail_alerts_2017-11-15.json-00000-of-00001

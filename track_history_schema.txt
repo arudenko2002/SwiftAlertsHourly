@@ -1,0 +1,17 @@
+playlist_uri:STRING
+playlist_date:DATE
+playlist_id:STRING
+playlist_owner:STRING
+playlist_owner_uri:STRING
+playlist_name:STRING
+followers:INTEGER
+isrc:STRING
+track_add_by:STRING
+track_uri:STRING
+track_name:STRING
+artist_uri:STRING
+artist_name:STRING
+album_uri:STRING
+album_name:STRING
+position:INTEGER
+load_timestamp:TIMESTAMP

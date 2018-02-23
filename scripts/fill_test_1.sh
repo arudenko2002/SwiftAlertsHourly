@@ -1,0 +1,1 @@
+bq load swift_trends_alerts.track_artist_image_test$1 gs://umg-dev/swift_alerts/imagesAPI_2017-11-04/images_2017-11-04_$2.csv* canopus_id:string,isrc,track_uri:string,artist_uri:string,artist_image:string,track_image:string,last_update:timestamp

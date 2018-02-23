@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=activation.jar -DgroupId=javax.activation -DartifactId=activation -Dversion=1.0.2 -Dpackaging=jar

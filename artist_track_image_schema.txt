@@ -1,0 +1,8 @@
+canopus_id:int64
+artist_name:string
+isrc:string
+track_uri:string
+artist_uri:string
+track_image:string
+artist_image:string
+last_update:timestamp

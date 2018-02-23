@@ -1,0 +1,16 @@
+{
+  "project": "umg-dev",
+  "runner": "DirectRunner",
+  "from_mongodb_users": "umg-dev.swift_alerts.from_mongodb_users",
+  "artist_track_images": "umg-dev.swift_alerts.artist_track_images",
+  "playlist_geography": "umg-dev.swift_alerts.playlist_geography",
+  "playlist_track_action": "umg-dev.swift_alerts.playlist_track_action",
+  "product": "umg-swift.metadata.product",
+  "playlist_track_history": "umg-partner.spotify.playlist_track_history",
+  "playlist_history": "umg-partner.spotify.playlist_history",
+  "streams":"umg-partner.spotify.streams",
+  "canopus_resource":"umg-dev.swift_alerts.canopus_resource",
+  "mail_alerts_output":"umg-dev/swift_alerts/",
+  "temp_directory": "gs://umg-dev/temp",
+  "whom": "justtome"
+}
